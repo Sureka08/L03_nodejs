@@ -1,2 +1,4 @@
-const myModule = require('./my-module.js');
-console.log(myModule.myFunction());
+
+console.log("Hello from module!");
+
+console.log("Hello NodeJS Lab 03");
